@@ -6,8 +6,13 @@ description: This resource includes information about federal agencies that regu
   substantial equivalence, premarket approval, PMA data requirements, federal regulatory
   issues, ISO, definition and examples of medical devices, marketing applications,
   internet access to FDA documents, tissue related documents and FDA approval process.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/8891e9e6e4d4906233973b760c6b1916_s4i_fda.pdf
+file: /media/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/8891e9e6e4d4906233973b760c6b1916_s4i_fda.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: s4i_fda.pdf
 uid: 8891e9e6-e4d4-9062-3397-3b760c6b1916

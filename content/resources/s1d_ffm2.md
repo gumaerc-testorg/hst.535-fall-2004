@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/bc73284c9b70e676e6c78dec956d65af_s1d_ffm2.pdf
+file: /media/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/bc73284c9b70e676e6c78dec956d65af_s1d_ffm2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: s1d_ffm2.pdf
 uid: bc73284c-9b70-e676-e6c7-8dec956d65af
