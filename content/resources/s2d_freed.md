@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 031d5a0a-e7b6-03ea-75cb-8736c706e99e
 resourcetype: Document
 title: s2d_freed.pdf
 uid: b8e0f4d5-eb18-ecc9-8f8f-7511d9c249ee

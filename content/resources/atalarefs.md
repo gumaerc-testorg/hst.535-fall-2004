@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 64271c3a-9910-5ac0-c496-44306c63908a
 resourcetype: Document
 title: atalarefs.pdf
 uid: 5c4c9371-aaab-291a-994a-409e3d9a36dd

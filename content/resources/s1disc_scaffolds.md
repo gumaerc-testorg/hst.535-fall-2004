@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 031d5a0a-e7b6-03ea-75cb-8736c706e99e
 resourcetype: Document
 title: s1disc_scaffolds.pdf
 uid: 0cadc9df-1c6d-eb2d-8c72-1601711b02f4

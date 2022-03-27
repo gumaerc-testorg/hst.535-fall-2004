@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 031d5a0a-e7b6-03ea-75cb-8736c706e99e
 resourcetype: Document
 title: s1f_biomimetics.pdf
 uid: ae507ae5-f42f-6903-8750-6ca38122b18b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 031d5a0a-e7b6-03ea-75cb-8736c706e99e
 resourcetype: Document
 title: s1d_ffm2.pdf
 uid: bc73284c-9b70-e676-e6c7-8dec956d65af
