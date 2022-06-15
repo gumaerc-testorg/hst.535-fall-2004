@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/ee7b5ccb84e2fafc737beadffe382465_s1d_ffm1.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/ee7b5ccb84e2fafc737beadffe382465_s1d_ffm1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

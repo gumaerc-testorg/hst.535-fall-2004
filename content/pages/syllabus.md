@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about the description, class sessions,
+  grading, credit for subject, prerequisites and reading materials required for the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

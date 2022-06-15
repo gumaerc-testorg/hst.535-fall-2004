@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the journal articles and textbook selections for each
+  lecture session. It also presents all of the readings organized as a "virtual textbook."
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -326,7 +328,7 @@ Clinical Applications and Underlying Principles
 {{< tdopen >}}
 
 
-References ([PDF]({{< baseurl >}}/resources/atalarefs))
+References ({{% resource_link 5c4c9371-aaab-291a-994a-409e3d9a36dd "PDF" %}})
 
 De Filippo, Roger E., James J. Yoo, and Anthony Atala. "Urethral Replacement using Cell Seeded Tubularized Collagen Matrices." _The Journal of Urology_ 168 (October 2002): 1789–1793.
 
@@ -558,7 +560,7 @@ Vacanti, Martin P., Amit Roy, Joaquin Cortiella, Lawrence Bonassar, and Charles 
 S2 B. Differentiated versus Stem Cell
 {{< tdclose >}}
 {{< tdopen >}}
-See notes for LEC 4: ([PDF]({{< baseurl >}}/resources/s2b_marsilio))
+See notes for LEC 4: ({{% resource_link 3a5f2b75-9c20-b4a0-4320-ad52ee6527e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -576,7 +578,7 @@ Wang, X. H., D. P. Li, W. J. Wang, Q. L. Feng, F. Z. Cui, Y. X. Xu, X. H. Song, 
 S2 D. Effects of Culture Conditions
 {{< tdclose >}}
 {{< tdopen >}}
-See notes for LEC 5: ([PDF]({{< baseurl >}}/resources/s2d_freed)) (Courtesy of Dr. Lisa Freed. Used with permission.)
+See notes for LEC 5: ({{% resource_link b8e0f4d5-eb18-ecc9-8f8f-7511d9c249ee "PDF" %}}) (Courtesy of Dr. Lisa Freed. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -718,7 +720,7 @@ S4 E. Urinary Tissues/Organs
 {{< tdopen >}}
 
 
-References ([PDF]({{< baseurl >}}/resources/atalarefs))
+References ({{% resource_link 5c4c9371-aaab-291a-994a-409e3d9a36dd "PDF" %}})
 
 De Filippo, Roger E., James J. Yoo, and Anthony Atala. "Urethral Replacement using Cell Seeded Tubularized Collagen Matrices." _The Journal of Urology_ 168 (October 2002): 1789–1793.
 
