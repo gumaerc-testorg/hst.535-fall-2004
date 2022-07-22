@@ -6,6 +6,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: s2d_freed.pdf
 uid: b8e0f4d5-eb18-ecc9-8f8f-7511d9c249ee
 ---
 This resource includes information about effects of culture conditions on cells, tissue engineering approach and bioreactors.
-

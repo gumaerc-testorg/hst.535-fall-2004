@@ -7,6 +7,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: s4disc_clinical.pdf
 uid: 54b024d5-0212-46c2-24a3-7f00d626e08a
 ---
 This resource includes information about discussion on clinical application, elements for tissue engineering, tissue engineering ve regenerative medicine, tissue engineering clinical applications and factors that can prevent regeneration.
-

@@ -7,6 +7,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: s1disc_scaffolds.pdf
 uid: 0cadc9df-1c6d-eb2d-8c72-1601711b02f4
 ---
 This resource includes information about principles and practice of using tissue engineering scaffolds, roles of the biomaterials/scaffolds and roles of a scaffold.
-

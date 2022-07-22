@@ -7,6 +7,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: s4h_cartilage.pdf
 uid: 741c7baa-fe77-72c0-43a2-8d5b127f131f
 ---
 This resource includes information about future clinical practice implementing tissue engineering, elements for tissue engineering and canine microfracture study treatment groups.
-

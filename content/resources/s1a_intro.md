@@ -6,6 +6,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: s1a_intro.pdf
 uid: 03f24abd-4e7b-ff15-e55c-ace18b54b236
 ---
 This resource includes information about elements of tissue engineering, tissue engineering vs regenerative medicine and factors that can prevent regeneration.
-

@@ -7,6 +7,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: s4disc_te_strt.pdf
 uid: 846b05d1-b818-03bd-65fe-28a25312e8ed
 ---
 This resource includes information about comparative analysis of tissue engineering strategies, tissue characteristics and approaches, hollow (tubes) vs solid organs and layered structures.
-

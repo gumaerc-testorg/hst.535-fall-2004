@@ -6,6 +6,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: s1d_ffm.pdf
 uid: 6f41b2d7-4fc4-816c-49f5-9ac83039c097
 ---
 This resource includes information about what is free forming fabrication?, fff technologies.
-

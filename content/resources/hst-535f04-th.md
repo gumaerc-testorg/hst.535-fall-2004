@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Two cross-section diagrams of skin, showing injury and scarred healing.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-535f04-th.jpg
 uid: 32d2e7da-48ad-503e-2ba8-81573cd05201
 ---
 New image Upload
-

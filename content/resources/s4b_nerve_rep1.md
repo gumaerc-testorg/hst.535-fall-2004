@@ -8,6 +8,7 @@ file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: s4b_nerve_rep1.pdf
 uid: 0663ee78-2add-d808-773c-96d17b46f01a
 ---
 This resource includes information about background and different choices of nerve recovery, nerve conduit biomaterials, evaluation of chitosan-derived materials and other physical property and effect of gelatin content on the biological and physicochemical properties of chitosan-gelatin composite.
-
