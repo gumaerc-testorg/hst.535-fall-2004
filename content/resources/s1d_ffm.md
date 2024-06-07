@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information about what is free forming fabrication?,
   fff technologies.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/6f41b2d74fc4816c49f59ac83039c097_s1d_ffm.pdf
+file_size: 1980040
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

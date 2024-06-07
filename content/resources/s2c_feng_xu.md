@@ -4,6 +4,7 @@ description: This resource includes information about structure and function of 
   diffrent types of liver cells, regenaration of liver cells, function of liver cells,
   factors related to liver regenaration and liver tissue engineering.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/1ade2c7942b279b905f3546039e8e1d3_s2c_feng_xu.pdf
+file_size: 315208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
