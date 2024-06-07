@@ -7,6 +7,7 @@ description: This resource includes information about federal agencies that regu
   issues, ISO, definition and examples of medical devices, marketing applications,
   internet access to FDA documents, tissue related documents and FDA approval process.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/8891e9e6e4d4906233973b760c6b1916_s4i_fda.pdf
+file_size: 950744
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

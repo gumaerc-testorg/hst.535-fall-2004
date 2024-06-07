@@ -4,6 +4,7 @@ description: This resource includes information about comparative analysis of ti
   engineering strategies, tissue characteristics and approaches, hollow (tubes) vs
   solid organs and layered structures.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/846b05d1b81803bd65fe28a25312e8ed_s4disc_te_strt.pdf
+file_size: 694491
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
