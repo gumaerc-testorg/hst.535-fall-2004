@@ -4,6 +4,7 @@ description: This resource includes information about elements of tissue enginee
   medicine, cells for tissue engineering, need for stem cells in tissue engineering,
   stem cell sources.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/2e19f919eab242a671439009dc3ca2fc_s2b_stemcells.pdf
+file_size: 917639
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

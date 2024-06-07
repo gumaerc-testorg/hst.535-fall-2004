@@ -4,6 +4,7 @@ description: This resource includes information about cells for tissue engineeri
   medicine, need for stem cells in tissue engineering/regenerative medicine and stem
   cells from marrow.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/3f4a052652ad762e50ba60fa7260304f_s2b_spector.pdf
+file_size: 1510824
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

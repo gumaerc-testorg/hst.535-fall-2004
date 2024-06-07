@@ -4,6 +4,7 @@ description: This resource includes information about Mechanobiology, Tissue Eng
   Molecular Nano-Mechanics, Collagen Fibrils, Aggrecan, cartilage tissue engineering
   using self-assembling peptides and effects of compression.
 file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/b8b0387dc918845469a487973b8d54ca_s3a_cartilage.pdf
+file_size: 2339583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
