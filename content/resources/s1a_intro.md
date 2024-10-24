@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information about elements of tissue engineering,
   tissue engineering vs regenerative medicine and factors that can prevent regeneration.
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/03f24abd4e7bff15e55cace18b54b236_s1a_intro.pdf
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/03f24abd4e7bff15e55cace18b54b236_s1a_intro.pdf
 file_size: 695301
 file_type: application/pdf
 learning_resource_types:
