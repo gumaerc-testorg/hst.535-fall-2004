@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about principles and practice of using
   tissue engineering scaffolds, roles of the biomaterials/scaffolds and roles of a
   scaffold.
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/0cadc9df1c6deb2d8c721601711b02f4_s1disc_scaffolds.pdf
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/0cadc9df1c6deb2d8c721601711b02f4_s1disc_scaffolds.pdf
 file_size: 897301
 file_type: application/pdf
 learning_resource_types:
