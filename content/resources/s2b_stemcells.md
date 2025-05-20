@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about elements of tissue engineering/regenerative
   medicine, cells for tissue engineering, need for stem cells in tissue engineering,
   stem cell sources.
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/2e19f919eab242a671439009dc3ca2fc_s2b_stemcells.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/2e19f919eab242a671439009dc3ca2fc_s2b_stemcells.pdf
 file_size: 917639
 file_type: application/pdf
 learning_resource_types:
