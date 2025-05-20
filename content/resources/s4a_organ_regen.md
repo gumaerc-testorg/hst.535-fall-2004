@@ -4,7 +4,7 @@ description: This resource includes information about synthesis of organs, in vi
   or in vivo?, irreversible organ injury, antagonistic relation between contraction
   and regeneration, isomorphousreplacement, Theories, immunocompetencetheory, and
   contraction blockade + isomorphous replacement.
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/2c275117f8d3f242278dad58d38f3690_s4a_organ_regen.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/2c275117f8d3f242278dad58d38f3690_s4a_organ_regen.pdf
 file_size: 1033974
 file_type: application/pdf
 learning_resource_types:

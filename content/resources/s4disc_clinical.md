@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about discussion on clinical application,
   elements for tissue engineering, tissue engineering ve regenerative medicine, tissue
   engineering clinical applications and factors that can prevent regeneration.
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/54b024d5021246c224a37f00d626e08a_s4disc_clinical.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/54b024d5021246c224a37f00d626e08a_s4disc_clinical.pdf
 file_size: 721263
 file_type: application/pdf
 learning_resource_types:
