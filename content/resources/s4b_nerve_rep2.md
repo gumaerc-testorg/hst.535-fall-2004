@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about chitosan modification, chitosannerve
   conduits prepared by rotary evaporation method and experiment with animal model
   on chitosan modification.
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/9dc9dc8ff386db69c6f4458588c14a97_s4b_nerve_rep2.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/9dc9dc8ff386db69c6f4458588c14a97_s4b_nerve_rep2.pdf
 file_size: 3082494
 file_type: application/pdf
 learning_resource_types:

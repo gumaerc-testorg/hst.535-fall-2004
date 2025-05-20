@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information about biomimetic design of scaffold,
   scaffold in bone tissue engineering.
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/ae507ae5f42f690387506ca38122b18b_s1f_biomimetics.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/ae507ae5f42f690387506ca38122b18b_s1f_biomimetics.pdf
 file_size: 513671
 file_type: application/pdf
 learning_resource_types:

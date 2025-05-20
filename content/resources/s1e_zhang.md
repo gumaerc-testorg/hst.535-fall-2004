@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about tissue engineering key ingredients,
   molecular self assembly, self assembling peptides, systems studied using peptide
   scaffolds.
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/66fe96ed27a1fc158b841d3d60af5610_s1e_zhang.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/66fe96ed27a1fc158b841d3d60af5610_s1e_zhang.pdf
 file_size: 2108192
 file_type: application/pdf
 learning_resource_types:

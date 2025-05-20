@@ -7,7 +7,7 @@ description: 'This resource includes information about analogs of extracellular 
   chemical symbolism, transition to biology, the central question in organ synthesis,
   required vs. redundant reactants, mechanism of regenerative activity of collagen-GAG
   scaffolds.'
-file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/3f9809447eacfec9f7f3053bd72d5f14_s1c_ecm.pdf
+file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/3f9809447eacfec9f7f3053bd72d5f14_s1c_ecm.pdf
 file_size: 983459
 file_type: application/pdf
 learning_resource_types:
