@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/32d2e7da48ad503e2ba881573cd05201_hst-535f04-th.jpg
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/32d2e7da48ad503e2ba881573cd05201_hst-535f04-th.jpg
 file_size: 10426
 file_type: image/jpeg
 image_metadata:

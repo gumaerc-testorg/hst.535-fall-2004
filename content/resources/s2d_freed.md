@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information about effects of culture conditions
   on cells, tissue engineering approach and bioreactors.
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/b8e0f4d5eb18ecc98f8f7511d9c249ee_s2d_freed.pdf
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/b8e0f4d5eb18ecc98f8f7511d9c249ee_s2d_freed.pdf
 file_size: 559206
 file_type: application/pdf
 learning_resource_types:
