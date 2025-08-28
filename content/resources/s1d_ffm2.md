@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/bc73284c9b70e676e6c78dec956d65af_s1d_ffm2.pdf
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/bc73284c9b70e676e6c78dec956d65af_s1d_ffm2.pdf
 file_size: 1858787
 file_type: application/pdf
 learning_resource_types:

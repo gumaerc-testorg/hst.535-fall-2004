@@ -4,7 +4,7 @@ description: This resource includes information about layered tissue organs and 
   examples, tissue characteristics and approaches, tissue engineering vs regenerative
   medicine, tissue engineering clinical applications and factors that can prevent
   regeneration.
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/ec8ebe5644957f2fe6b138868b424410_s4disc_review.pdf
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/ec8ebe5644957f2fe6b138868b424410_s4disc_review.pdf
 file_size: 773702
 file_type: application/pdf
 learning_resource_types:

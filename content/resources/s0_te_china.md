@@ -4,7 +4,7 @@ description: This resource includes information about the previous review on tis
   engineering in china, conference and symposium on tissue engineering held in china,
   national program on tissue engineering, major tissue engineering research center
   and recent books on tissue engineering.
-file: /courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/d950cb9934ead428fb5fe1805a1979da_s0_te_china.pdf
+file: /ol-ocw-studio-app/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/d950cb9934ead428fb5fe1805a1979da_s0_te_china.pdf
 file_size: 221297
 file_type: application/pdf
 learning_resource_types:
