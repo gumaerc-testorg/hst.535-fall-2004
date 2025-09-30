@@ -14,7 +14,7 @@ Course Meeting Times
 
 Lectures: 1 session / week, 1.5 hours / session
 
-_Note:_ Archived webcast lecture videos for the Fall 2008 version of this class can be found at the [HST.535 Fall 2008 website](http://stellar.mit.edu/S/course/HST/fa08/HST.535/materials.html).
+_Note:_ Archived webcast lecture videos for the Fall 2008 version of this class can be found at the {{% resource_link "2e6147a2-c2b5-467e-b461-998f41c00384" "HST.535 Fall 2008 website" %}}.
 
 Description
 -----------
