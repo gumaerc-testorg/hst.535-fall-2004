@@ -388,7 +388,7 @@ Review
 
 {{< tdclose >}}
 {{< tdopen >}}
-Melkerson, M. N. "[Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Regulated as Devices](http://www.fda.gov/BiologicsBloodVaccines/TissueTissueProducts/RegulationofTissues/ucm150485.htm)." US FDA Tissue Reference Group (TRG), August 29, 2001.
+Melkerson, M. N. "{{% resource_link "7d834ef5-283d-452e-b82d-0f76230957a6" "Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Regulated as Devices" %}}." US FDA Tissue Reference Group (TRG), August 29, 2001.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -776,7 +776,7 @@ Lee, C. R., A. J. Grodzinsky, H. -P. Hsu, and M. Spector. "Effects of a Cultured
 S4 I. Federal Regulatory Issues for Tissue Engineering Products in the U.S., China, and other Countries
 {{< tdclose >}}
 {{< tdopen >}}
-Melkerson, M. N. "[Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Regulated as Devices](http://www.fda.gov/BiologicsBloodVaccines/TissueTissueProducts/RegulationofTissues/ucm150485.htm)." US FDA Tissue Reference Group (TRG), August 29, 2001.
+Melkerson, M. N. "{{% resource_link "7d834ef5-283d-452e-b82d-0f76230957a6" "Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Regulated as Devices" %}}." US FDA Tissue Reference Group (TRG), August 29, 2001.
 {{< tdclose >}}
 
 {{< trclose >}}
